@@ -1,9 +1,6 @@
 data:
   type: image
   train_dir: /home/2000G/Dataset/ImageNet/ImageNet64/
-  test_dir: /home/2000G/Dataset/cifar
-  lsun_categories_train: [church_outdoor_train]
-  lsun_categories_test: [church_outdoor_test]
   img_size: 64
   nlabels: 1
 generator:
